@@ -18,17 +18,17 @@
 By the fall of 2010, Stripe had become their full-time jobs.  They thought about bootstrapping it, as they had to that point, but soon realized that as a payment startup they would need the kind of institutional credibility that only a top-notch investor could provide.
 
 
-* How is the company funded? How much funding have they received?\
+* How is the company funded? How much funding have they received?
 
         Stripe has secured significant funding through various rounds of financing. Stripe has raised a total of $8.7B in funding over 20 rounds. Their latest funding was raised on Apr 25, 2023 from a Grant round. Stripe is funded by 57 investors.
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?\
+* What specific financial problem is the company or project trying to solve?
         
         Stripe aims to solve the problem of online payment processing by providing businesses with a seamless and secure platform to accept payments. It simplifies integration through user-friendly APIs and developer tools, reduces friction in the payment experience, and offers robust subscription management for recurring payments. Stripe supports global payments, handles fraud prevention, and provides data analytics to help businesses make informed decisions. By addressing these challenges, Stripe enables businesses to focus on their core operations and growth while offering a streamlined payment experience to their customers.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?\
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
         Stripe's target customers are businesses and organizations operating in the digital economy, including startups, SMEs, large enterprises, e-commerce businesses, marketplaces, subscription services, and platforms. They serve various industries like retail, e-commerce, SaaS, on-demand services, and fintech. Stripe offers flexible payment solutions and integration options to meet the needs of businesses of all sizes. With a global presence in over 40 countries, Stripe takes the second spot with a 19.44% share of the payment processing market. 229,894 companies use Stripe, including some of the world’s leading brands like Target, Samsung, and The Home Depot.
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)\
